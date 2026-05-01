@@ -20,7 +20,7 @@ module.exports = {
     apps: [
         {
             name: "aks",
-            script: "index.js",
+            script: "animé Otaku 🤭🤭",
 
             // Working directory
             cwd: __dirname,
