@@ -1,5 +1,4 @@
-/**
- * PM2 Ecosystem Configuration for Nero Bot
+nero * PM2 Ecosystem Configuration for Nero Bot
  *
  * This file configures PM2 process manager for:
  * - Auto-restart on crash
@@ -20,7 +19,7 @@
 module.exports = {
     apps: [
         {
-            name: "nero",
+            name: "aks",
             script: "index.js",
 
             // Working directory
