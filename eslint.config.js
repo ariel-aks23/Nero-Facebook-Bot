@@ -7,7 +7,7 @@
   },
   "botInfo": {
     "name": "Ariel bot",
-    "prefix": "!",
+    "prefix": "+",
     "author": "ICI",
     "description": "Bot Messenger personnalisé"
   },
